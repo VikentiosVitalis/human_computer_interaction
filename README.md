@@ -1,3 +1,2 @@
 # HCI
-Human Computer Interaction - Team100
- 
+Human Computer Interaction - Team100 
