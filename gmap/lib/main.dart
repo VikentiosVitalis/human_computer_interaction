@@ -27,7 +27,8 @@ class MyApp extends StatelessWidget {
         ProxyProvider2<Position, BitmapDescriptor, Future<List<Place>>>(
           update: (context, position, icon, places) {
             return (position != null)
-                ? placesService.getPlaces(37.983810, 23.727539, icon)
+                ? placesService.getPlaces(
+                    position.latitude, position.longitude, icon)
                 : null;
           },
         )
