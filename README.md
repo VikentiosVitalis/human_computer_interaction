@@ -15,7 +15,11 @@ The input system we used is the smartphone touch screen, the use of which is ess
 
 3rd Axe: Connectivity
 
-One of the main connectivity tools we used, is the GPS, with the help of which the user is able to find the best parking slot in the nearby area.
+One of the main connectivity tools we used, is the GPS, with the help of which the user is able to find the best parking lot in the nearby area.
+
+# Project description:
+The app is named EasyParking, its category is 'Map and Navigation' with the punchline being 'No parking lot, No problem'. 
+Both smartphone and tablet users are able to install this app. The main purpose is to diminish the time needed to find free parking space in accordance with their current position and have access to amazing gifts. The users have to be able to login and register, choose private or public parking. Last but not least, they have to be able to see a list with all the needed information to find which parking suits best their interests.  
 
 # Human Computer Interaction - Creation Team - 100:
 
