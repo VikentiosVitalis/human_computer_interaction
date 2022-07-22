@@ -4,6 +4,7 @@
 
 # General information about this project of HCI:
 This university project was created for the course of 'Human Computer Interaction' during the 8th semester at ΝΤUA and more specifically at the department of Electrical and Computer Engineering. The task was to develop an application based in three (3) major axes. 
+
 1st Axe: Human-centered Computational Examples
 Our application has technical characteristics of: User Adaptation, Internet of Things (IoT) and Social Computing.
 
