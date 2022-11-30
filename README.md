@@ -23,8 +23,8 @@ Both smartphone and tablet users are able to install this app. The main purpose 
 
 # Human Computer Interaction - Creation Team - 100:
 
-- Συμεών Ποργιώτης 
+- [Simeon Porgiotis](https://github.com/el18053)
 
-- Βικέντιος Βιτάλης
+- [Vikentios Vitalis](https://github.com/VikentiosVitalis)
 
-- Στέφανος Τσώλος
+- [Stefanos Tsolos](https://github.com/stefanostsolos)
