@@ -1,4 +1,4 @@
-## ECE, NTUA Human Computer Interaction
+## [ECE @NTUA](https://www.ece.ntua.gr/en/undergraduate/info) Human Computer Interaction
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62433719/148810083-72fe5303-d07d-43e7-9172-02e38c8771f0.png" alt="HCI's custom image"/>
